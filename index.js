@@ -1,5 +1,18 @@
 // document.getElementById("count-el").innerText = 5
 
-let count = 0
+let count = 0, countEl = document.getElementById("count-el")
 
-console.log(count)
+function increment(){
+    count++
+    countEl.innerText = count
+}
+
+function save(){
+    console.log(count)
+}
+
+save()
+
+let username = "div", message = "you have 3 notifications"
+messageToUser = `${message}, ${username}`
+console.log(messageToUser)
