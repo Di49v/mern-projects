@@ -16,3 +16,7 @@ save()
 let username = "div", message = "you have 3 notifications"
 messageToUser = `${message}, ${username}`
 console.log(messageToUser)
+
+let welcomeEl = document.getElementById("welcome-el")
+let names = "Divleen Kaur"
+greeting = `Hello dear ${names}, how are you?`
