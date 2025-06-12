@@ -1,6 +1,6 @@
 # MERN Projects
 
-This repository contains a collection of MERN (MongoDB, Express, React, Node.js) projects, each organized in its own directory. The projects increase in complexity as you progress, showcasing my learning journey and skills improvement over time. Each project can be deployed and accessed separately.
+This repository contains a collection of MERN (MongoDB, Express, React, Node.js) projects, each organized in its own directory. The subsequent projects increase in complexity, showcasing my learning journey and skills improvement over time. Each project can be deployed and accessed separately.
 
 ## Projects
 
