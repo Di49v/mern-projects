@@ -11,7 +11,8 @@ let saveEl = document.getElementById("save-el")
 
 function save(){
     console.log(count)
-    saveEl.innerText += count + "-"
+    saveEl.textContent += count + " - "
+    countEl.innerText = count = 0
 }
 
 let username = "div", message = "you have 3 notifications"
