@@ -7,11 +7,12 @@ function increment(){
     countEl.innerText = count
 }
 
+let saveEl = document.getElementById("save-el")
+
 function save(){
     console.log(count)
+    saveEl.innerText += count + "-"
 }
-
-save()
 
 let username = "div", message = "you have 3 notifications"
 messageToUser = `${message}, ${username}`
@@ -19,4 +20,6 @@ console.log(messageToUser)
 
 let welcomeEl = document.getElementById("welcome-el")
 let names = "Divleen Kaur"
-greeting = `Hello dear ${names}, how are you?`
+let greeting = `Hello dear ${names}, how are you?`
+
+welcomeEl.innerText = greeting
