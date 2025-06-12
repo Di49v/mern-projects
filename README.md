@@ -4,12 +4,12 @@ This repository contains a collection of MERN (MongoDB, Express, React, Node.js)
 
 ## Projects
 
-### 1. sawaari
-**Description:** sawaari is a simple passenger counter app. It lets users increment or decrement the number of passengers and reset the count as needed. The UI is straightforward, making it easy to track people entering or exiting a vehicle or location.
+### 1. Sawaari
+**Description:** Sawaari is a simple passenger counter app. It lets users increment or decrement the number of passengers and reset the count as needed. The UI is straightforward, making it easy to track people entering or exiting a vehicle or location.
 
 **Deployed Link:**  
 [View sawaari](https://di49v.github.io/mern-projects/sawaari/)
 
 ---
 
-*I shall add more projects below in the same format as i create them. till then, stay connected!*
+*I shall add more projects below in the same format as i create them. Till then, stay connected!*
