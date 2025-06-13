@@ -1,15 +1,23 @@
 # MERN Projects
 
-This repository contains a collection of MERN (MongoDB, Express, React, Node.js) projects, each organized in its own directory. The subsequent projects increase in complexity, showcasing my learning journey and skills improvement over time. Each project can be deployed and accessed separately.
+This repository contains a collection of MERN (MongoDB, Express, React, Node.js) projects, each organized in its own directory. The subsequent projects increase in complexity, showcasing my learning and growth with the MERN stack.
 
 ## Projects
 
 ### 1. Sawaari
-**Description:** Sawaari is a simple passenger counter app. It lets users increment or decrement the number of passengers and reset the count as needed. The UI is straightforward, making it easy to track people entering or exiting a vehicle or location.
+**Description:** Sawaari is a simple passenger counter app. It lets users increment or decrement the number of passengers and reset the count as needed. The UI is straightforward, making it easy to use for anyone.
 
 **Deployed Link:**  
 [View sawaari](https://di49v.github.io/mern-projects/sawaari/)
 
 ---
 
-*I shall add more projects below in the same format as i create them. Till then, stay connected!*
+### 2. Calculator
+**Description:** Calculator is a basic calculator web app that allows users to perform standard arithmetic operations such as addition, subtraction, multiplication, and division. Built with a simple and intuitive UI, it is designed to help users quickly solve day-to-day math problems.
+
+**Deployed Link:**  
+[View calculator](https://di49v.github.io/mern-projects/calculator/)
+
+---
+
+*I shall add more projects below in the same format as I create them. Till then, stay connected!*
