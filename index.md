@@ -20,4 +20,13 @@ This repository contains a collection of MERN (MongoDB, Express, React, Node.js)
 
 ---
 
+### 3. Blackjack
+**Description:** Blackjack is a digital version of the classic card game. Play against the computer dealer, try to get as close as possible to 21 without going over, and experience simple game mechanics that help you learn and enjoy the fundamentals of Blackjack. This project demonstrates use of state management and game logic in a React environment.
+
+<!-- If you have a deployed link, add it below. For example: -->
+<!-- **Deployed Link:**  
+[View blackjack](https://di49v.github.io/mern-projects/blackjack/) -->
+
+---
+
 *I shall add more projects below in the same format as I create them. Till then, stay connected!*
