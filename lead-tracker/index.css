@@ -7,10 +7,19 @@ body {
 
 button {
     background-color: #5f9341;
-    border: none;
+    border: 1px solid #5f9341;
     color: white;
     font-weight: bold;
     padding: 10px 20px;
+}
+
+button:focus {
+  outline: 3px solid rgb(64, 144, 218);
+}
+
+#dlt-btn {
+    background-color: white;
+    color: #5f9341;
 }
 
 input {
