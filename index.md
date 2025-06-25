@@ -28,4 +28,37 @@ This repository contains a collection of MERN (MongoDB, Express, React, Node.js)
 
 ---
 
-*I shall add more projects below in the same format as I create them. Till then, stay connected!*
+### 4. Lead Trackler Chrome Extension
+
+**Description:**  
+The Lead Trackler Chrome Extension is a productivity tool designed to help users efficiently collect, manage, and track leads directly from their browser. It is lightweight, privacy-friendly, and works entirely locally in your browser.
+
+**Features:**
+- **SAVE TAB:** Instantly saves the URL of your current tab as a lead with one click.
+- **SAVE INPUT:** Allows you to manually enter a URL or lead info and save it. Perfect for adding leads from any source.
+- **Delete All:** The DELETE ALL button lets you clear your entire list of saved leads with a single click.
+- **Persistent Storage:** All saved leads remain available even after you refresh or reopen your browser, as they are stored in the browser's local storage.
+- **Open in New Tab:** Clicking a saved lead will open the link in a new browser tab for convenience.
+- **Simple Interface:** Clean UI for quick saving, viewing, and managing your leads.
+
+**How to Use:**
+
+1. **Install the Extension:**
+   - Download the Lead Trackler Chrome Extension from the Chrome Web Store, or load it as an unpacked extension from your local files.
+
+2. **Saving a Lead:**
+   - To save the URL of your current tab, click the **SAVE TAB** button.
+   - To manually add a new lead, enter the URL or information in the input field and click **SAVE INPUT**.
+
+3. **Viewing Leads:**
+   - All your saved leads are listed in the extension popup.
+   - Click any saved lead to open it in a new browser tab.
+
+4. **Deleting Leads:**
+   - Use the **DELETE ALL** button to remove all saved leads from your list instantly.
+
+**Notes:**
+- Your leads will persist even after closing or refreshing your browser, as long as you do not clear your browser's local storage or use the DELETE ALL button.
+- The extension does not sync data to the cloud or between devices for privacy and simplicity.
+
+---

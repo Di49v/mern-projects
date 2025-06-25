@@ -1,3 +1,5 @@
+> **To view a stylised version of this README, go to [index.md](./index.md).**  
+
 # MERN Projects
 
 This repository contains a collection of MERN (MongoDB, Express, React, Node.js) projects, each organized in its own directory. The subsequent projects increase in complexity, showcasing my learning and growth with the MERN stack.
