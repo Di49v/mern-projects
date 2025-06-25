@@ -1,4 +1,4 @@
-> **To view a stylised version of this README, go to [index.md](https://di49v.github.io/mern-projects/).**  
+> **To view a stylised version of this README, click [here](https://di49v.github.io/mern-projects/).**  
 
 # MERN Projects
 
