@@ -15,18 +15,16 @@ This repository contains a collection of MERN (MongoDB, Express, React, Node.js)
 ### 2. Calculator
 **Description:** Calculator is a basic calculator web app that allows users to perform standard arithmetic operations such as addition, subtraction, multiplication, and division. Built with a simple and intuitive UI, it is designed to help users quickly solve day-to-day math problems.
 
-<!-- If you have a deployed link, add it below. For example: -->
-<!-- **Deployed Link:**  
-[View calculator](https://di49v.github.io/mern-projects/calculator/) -->
+**Deployed Link:**  
+[View calculator](https://di49v.github.io/mern-projects/calculator/)
 
 ---
 
 ### 3. Blackjack
 **Description:** Blackjack is a digital version of the classic card game. Play against the computer dealer, try to get as close as possible to 21 without going over, and experience simple game mechanics that help you learn and enjoy the fundamentals of Blackjack. This project demonstrates use of state management and game logic in a React environment.
 
-<!-- If you have a deployed link, add it below. For example: -->
-<!-- **Deployed Link:**  
-[View blackjack](https://di49v.github.io/mern-projects/blackjack/) -->
+**Deployed Link:**  
+[View blackjack](https://di49v.github.io/mern-projects/blackjack/)
 
 ---
 
